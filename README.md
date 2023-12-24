@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Git profile
 
 <!--
 **Skagia/skagia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently on a journey of learning and development, deeply passionate about technology and programming languages. Interested in discussing languages you're exploring? Feel free to reach out — I'm always eager to exchange knowledge with fellow enthusiasts. Thank you for visiting my profile!
